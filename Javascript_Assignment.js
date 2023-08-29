@@ -51,10 +51,10 @@ function getTotalSupply()
 
 // call your functions below this line
 
-mintNFT("Hardik",97,'BCB');
-mintNFT("Aaditya",99,'BCB');
-mintNFT("Himanshu",95,'BCB');
-mintNFT("Shipra",94,'BCB');
+mintNFT("Himanshu",97,'BCB');
+mintNFT("Anishka",99,'BCB');
+mintNFT("Pragyan",95,'BCB');
+mintNFT("Aaditya",94,'BCB');
 mintNFT("Satyam",98,'BCB');
 listNFTs();
 getTotalSupply();
